@@ -9,3 +9,14 @@ A Java-based movie recommendation application that suggests films based on share
 - Generate recommendations based on shared characteristics
 - Organize movie information using object-oriented Java classes
 
+![Best Matches](Screenshot%202026-10-14%20144533.png)
+
+###  Movie Ratings
+![My Ratings](Screenshot%202026-10-14%20144429.png)
+
+###  Film Details
+![Film Details](Screenshot%202026-10-14%20144639.png)
+
+###  Watchlist
+![Watchlist](Screenshot%202026-10-14%20144738.png)
+
